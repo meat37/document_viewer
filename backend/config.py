@@ -1,0 +1,5 @@
+
+LDAP_SERVER = '192.168.73.128'
+
+LDAP_USER = 'flask'
+LDAP_PASS = 'QAZqaz123'
